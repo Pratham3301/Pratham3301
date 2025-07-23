@@ -428,4 +428,28 @@ System Uptime<br>
 <img src="https://img.shields.io/badge/🤝_Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
 <a href="https://linkedin.com/in/pratham-shewale">
-<img src="https://
+<img src="https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+---
+
+<!-- Final Footer -->
+<div align="center">
+  
+### 🚀 **THANK YOU FOR SCROLLING!**  
+_"Stay curious, stay relentless. The grind never stops!"_
+
+<picture>
+  <img alt="End Animation" src="https://readme-jokes.vercel.app/api?bgColor=%230d1117&qColor=%23f0f6fc&theme=github-dark" />
+</picture>
+
+---
+
+#### 🔥 _Made with passion and late-night caffeine by_ [Pratham Shewale](https://github.com/Pratham3301)
+
+</div>
+
