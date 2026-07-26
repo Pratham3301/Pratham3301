@@ -5,7 +5,7 @@
 
 <!-- Crazy Cool Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🌟+Welcome+to+My+Digital+Universe+🌟;🤖+Building+AI+with+95%25+Accuracy+🎯;•+99.9%25+Uptime+📈;⚡+40%25+Faster+Deployments+•+Zero+Errors+✅;🏆+Smart+India+Hackathon+Finalist+🏆" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🌟+Welcome+to+My+Digital+Universe+🌟;🤖+Building+AI+with+95%25+Accuracy+🎯;+99.9%25+Uptime+📈;⚡+40%25+Faster+Deployments+•+Zero+Errors+✅;🏆+Smart+India+Hackathon+Finalist+🏆" alt="Typing SVG" />
 </div>
 
 <!-- Live Stats Bar -->
